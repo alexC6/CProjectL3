@@ -1,0 +1,21 @@
+{
+    "compteA": {
+        "nom": "nom",
+        "prenom": "prenom",
+        "mail": "mail",
+        "mdp": "mdp",
+        "liste": [
+            "annuaire1"
+        ]
+    },
+    "compteU": {
+        "nom": "nom",
+        "prenom": "prenom",
+        "mail": "mail",
+        "mdp": "mdp",
+        "liste": [
+            "annuaire1",
+            "annuaire2"
+        ]
+    }
+}
